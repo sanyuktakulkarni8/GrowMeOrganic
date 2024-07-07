@@ -1,0 +1,24 @@
+form{
+    display:flex;
+    flex-direction: column;
+    width: 70%;
+     /* align-items: center;  */
+    justify-content: center;
+}
+.main{
+    margin-top:50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    color: black;
+    text-align: center;
+}
+
+.lastBtn{
+    margin-top: 50px ;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
